@@ -9,3 +9,6 @@ A simple and interactive Train Booking System built using **HTML, CSS, and JavaS
 - **Travel Class Selection:** Choose between Sleeper (SL) and AC classes.
 - **Interactive Seat Layout:**
 
+- live link  
+trainticketbook.netlify.app
+

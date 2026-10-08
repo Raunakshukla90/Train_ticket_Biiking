@@ -10,5 +10,5 @@ A simple and interactive Train Booking System built using **HTML, CSS, and JavaS
 - **Interactive Seat Layout:**
 
 - live link  
-trainticketbook.netlify.app
+https://trainticketbook.netlify.app/
 
